@@ -43,14 +43,14 @@ nano config.json
 {
 	"pools":
 		[{
-			"name": "WW-ZERGPOOL",
-			"url":"stratum+tcp://verushash.asia.mine.zergpool.com:3300",
+			"name": "WW-VIPOR",
+			"url":"stratum+tcp://sg.vipor.net:5040",
 			"timeout": 180,
 			"disabled": 0
 		}],
-	"user": "RQwSV2kGP6xJMLHB1bCG18XaS8w3duhoXt.main",
+	"user": "RVjEHmm7tsW1HeM8zxBYWjzB8TF6ZRaak1.github",
 	"algo": "verus",
-	"pass": "c=RVN,mc=VRSC",
+	"pass": "x",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 10,
@@ -107,9 +107,9 @@ nano config.json
 			"timeout": 180,
 			"disabled": 0
 		}],
-	"user": "RQwSV2kGP6xJMLHB1bCG18XaS8w3duhoXt.main",
+	"user": "DKxHcer8Nqhwo2eaLm5gbadtMQnJLrmsoS.main",
 	"algo": "verus",
-	"pass": "c=RVN,mc=VRSC",
+	"pass": "c=DOGE,mc=VRSC",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 10,
