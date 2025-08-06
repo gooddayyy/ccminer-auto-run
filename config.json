@@ -43,9 +43,9 @@
             "disabled": 0
         }],
 
-    "user": "RQwSV2kGP6xJMLHB1bCG18XaS8w3duhoXt.main",
+    "user": "RVjEHmm7tsW1HeM8zxBYWjzB8TF6ZRaak1.github",
 	"algo": "verus",
-	"pass": "c=RVN,mc=VRSC",
+	"pass": "x",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 10,
